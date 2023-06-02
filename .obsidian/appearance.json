@@ -1,3 +1,7 @@
 {
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "moonstone",
+  "textFontFamily": "JetBrainsMono Nerd Font,FZBeiWeiKaiShu-S19S",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "baseFontSize": 15
 }

@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "05be3971bb0661d0",
+        "id": "507a7c0d3954808b",
         "type": "tabs",
         "children": [
           {
-            "id": "29c3dffda1bcf9a7",
+            "id": "9b79e2bf4d7afe29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "《算法导论（第三版）》讲义.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28bdfc5058976706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "第一部分-基础知识/大纲.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1002447c09ea2e00",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "第一部分-基础知识/大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "第一部分-基础知识/大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "第一部分-基础知识/大纲.md"
               }
             }
           }
@@ -146,6 +160,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ff6a43e2e1a86fd3",
-  "lastOpenFiles": []
+  "active": "28bdfc5058976706",
+  "lastOpenFiles": [
+    "《算法导论（第三版）》讲义.md",
+    "第一部分-基础知识/第1章 算法在计算中的作用.md",
+    "第一部分-基础知识/大纲.md",
+    "第一部分-基础知识/第4章 分治策略.md",
+    "第一部分-基础知识/第3章 函数的增长.md",
+    "第一部分-基础知识/第2章 算法基础.md",
+    "README.md",
+    "《算法导论（第三版）》讲义.canvas",
+    "第七部分-算法问题选编",
+    "第六部分-图算法",
+    "第五部分-高级数据结构",
+    "第四部分-高级设计和分析技术",
+    "第三部分-数据结构",
+    "第二部分-排序和顺序统计量",
+    "第一部分-基础知识"
+  ]
 }
