@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "507a7c0d3954808b",
+        "id": "d6f34af8601e16d0",
         "type": "tabs",
         "children": [
           {
-            "id": "9b79e2bf4d7afe29",
+            "id": "a21c74567a99d767",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "28bdfc5058976706",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "第一部分-基础知识/大纲.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1002447c09ea2e00",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "第一部分-基础知识/大纲.md",
+                "file": "《算法导论（第三版）》讲义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "第一部分-基础知识/大纲.md",
+                "file": "《算法导论（第三版）》讲义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第一部分-基础知识/大纲.md"
+                "file": "《算法导论（第三版）》讲义.md"
               }
             }
           }
@@ -160,14 +146,25 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "28bdfc5058976706",
+  "active": "a21c74567a99d767",
   "lastOpenFiles": [
-    "《算法导论（第三版）》讲义.md",
-    "第一部分-基础知识/第1章 算法在计算中的作用.md",
+    "第二部分-排序和顺序统计量/第9章 中位数和顺序统计量.md",
+    "第二部分-排序和顺序统计量/第8章 线性时间排序.md",
+    "第二部分-排序和顺序统计量/第7章 快速排序.md",
+    "第二部分-排序和顺序统计量/第6章 堆排序.md",
     "第一部分-基础知识/大纲.md",
+    "第一部分-基础知识/第2章 算法基础.md",
+    "《算法导论（第三版）》讲义.md",
+    "figures/2-3.svg",
+    "figures/2-5.svg",
+    "figures/2-4.svg",
+    "figures/2-2.svg",
+    "figures/2-1.svg",
+    "figures",
+    "2-1.svg",
+    "第一部分-基础知识/第1章 算法在计算中的作用.md",
     "第一部分-基础知识/第4章 分治策略.md",
     "第一部分-基础知识/第3章 函数的增长.md",
-    "第一部分-基础知识/第2章 算法基础.md",
     "README.md",
     "《算法导论（第三版）》讲义.canvas",
     "第七部分-算法问题选编",
